@@ -1,0 +1,15 @@
+{
+  "name": "xeonchik/sso_test",
+  "description": "sso test",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "xeonc",
+      "email": "xeonchik@gmail.com"
+    }
+  ],
+  "require": {
+    "google/apiclient": "^2.7"
+  }
+}
